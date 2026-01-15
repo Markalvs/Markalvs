@@ -1,10 +1,10 @@
 # Sobre mim
 
-Olá, meu nome é **Mark Vinícius Alves** e eu atuo com **Data Analytics / Business Intelligence** em **Minas Gerais, Brasil**, atualmente na **GuaraLabs**. Meu foco é transformar dados de clientes e do produto em **insights acionáveis** por meio de **acompanhamento de KPIs**, **dashboards** e **análises de performance**, apoiando a tomada de decisão estratégica entre áreas.
+Olá, meu nome é Mark Vinícius Alves e eu atuo com Data Analytics / Business Intelligence em Minas Gerais, Brasil, atualmente na GuaraLabs. Meu foco é transformar dados de clientes e do produto em insights acionáveis por meio de acompanhamento de KPIs, dashboards e análises de performance, apoiando a tomada de decisão estratégica entre áreas.
 
-Minha experiência inclui a construção de **relatórios gerenciais** e a análise de métricas como **NPS**, sinais de feedback e indicadores de uso da plataforma, identificando padrões e oportunidades para melhorar adoção e eficiência operacional. Trabalho ponta a ponta com dados: **coletando, organizando e analisando datasets**, definindo indicadores e traduzindo resultados em recomendações claras. Também colaboro com a engenharia para testar e refinar fluxos relacionados a IA, garantindo maior assertividade e resultados mensuráveis.
+Minha experiência inclui a construção de relatórios gerenciais e a análise de métricas como NPS, sinais de feedback e indicadores de uso da plataforma, identificando padrões e oportunidades para melhorar adoção e eficiência operacional. Trabalho ponta a ponta com dados: coletando, organizando e analisando datasets, definindo indicadores e traduzindo resultados em recomendações claras. Também colaboro com a engenharia para testar e refinar prompts de automatização de atendimento relacionados a IA, garantindo maior assertividade e resultados mensuráveis.
 
-Sou graduando em **Engenharia de Produção** na **Universidade Federal de Ouro Preto (UFOP)** e possuo formação técnica em **Automação Industrial**, o que fortaleceu meu raciocínio analítico e a resolução estruturada de problemas. Anteriormente, atuei com projetos de redes **FTTH** e relatórios técnicos, desenvolvendo forte atenção a detalhes, interpretação de dados e otimização de processos.
+Sou graduando em Engenharia de Produção na Universidade Federal de Ouro Preto (UFOP) e possuo formação técnica em Automação Industrial, o que fortaleceu meu raciocínio analítico e a resolução estruturada de problemas. Anteriormente, atuei com projetos de redes FTTH e também como Técnico de TI na gestão de atendimentos em canais regulatórios e digitais (Reclame Aqui, Anatel, Procon e e-mail oficial da empresa), garantindo conformidade e qualidade no suporte.
 
 ---
 
