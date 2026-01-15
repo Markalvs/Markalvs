@@ -35,7 +35,7 @@ Sou graduando em Engenharia de Produção na Universidade Federal de Ouro Pre
 ---
 
 ## Projetos em destaque
-- 📊 Dashboard em Power BI – [(https://github.com/Markalvs/excel-projects)]
+- 📊 Dashboard em Power BI – (https://github.com/Markalvs/excel-projects)
 - 📈 Automação em Excel + VBA – [link do repo]
 - 🧠 Playbook de Prompt Engineering – [link do repo]
 
