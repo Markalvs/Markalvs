@@ -51,6 +51,6 @@ Sou graduando em Engenharia de Produção na Universidade Federal de Ouro Pre
 ---
 
 ## Impacto
-- Reduzi tempo de trabalho manual automatizando rotinas em Excel (VBA)
+- Reduzi tempo de trabalho manual automatizando rotinas
 - Criei dashboards de KPIs para acompanhar uso do produto e insights de clientes
 - Transformei NPS e feedbacks em melhorias acionáveis no produto
