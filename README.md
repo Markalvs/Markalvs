@@ -4,7 +4,7 @@ Hey, my name is Mark Vinícius Alves and I’m a Data Analytics / Business Intel
 
 My background includes building management reports and analyzing key metrics such as NPS, feedback signals, and platform usage indicators, identifying patterns and opportunities to improve adoption and operational efficiency. I work end-to-end with data: collecting, organizing, and analyzing datasets, defining indicators, and translating findings into clear recommendations. I also collaborate with engineering to test and refine AI-related workflows, ensuring better accuracy and measurable outcomes.
 
-I’m pursuing a B.Sc. in Production Engineering (UFOP) and I have technical training in Industrial Automation, which strengthened my analytical mindset and structured problem-solving. Previously, I worked with FTTH network projects and technical reporting, developing strong attention to detail, data interpretation, and process optimization.
+I’m pursuing a B.Sc. in Production Engineering, Federal University of Ouro Preto (UFOP) and I have technical training in Industrial Automation, which strengthened my analytical mindset and structured problem-solving. Previously, I worked with FTTH network projects and technical reporting, developing strong attention to detail, data interpretation, and process optimization.
 
 ---
 ## Key Areas of Expertise
