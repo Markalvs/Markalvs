@@ -7,9 +7,6 @@ My background includes building management reports and analyzing key metrics suc
 I’m pursuing a B.Sc. in Production Engineering (UFOP) and I have technical training in Industrial Automation (SENAI), which strengthened my analytical mindset and structured problem-solving. Previously, I worked with FTTH network projects and technical reporting, developing strong attention to detail, data interpretation, and process optimization.
 
 ---
-
-## Key Areas of Expertise
-
 ## Key Areas of Expertise
 
 - **Business Intelligence (Power BI):** Dashboards, KPI tracking, data modeling, DAX measures, and actionable insights  
