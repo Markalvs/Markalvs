@@ -20,12 +20,37 @@ I’m pursuing a B.Sc. in Production Engineering (UFOP) and I have technical tra
 ---
 
 ## Tech Stack
-
 <p align="left">
-  <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <!-- SQL (Database icon) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="SQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34" /> Python &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="34" /> SQL
+  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" height="34" /> Power BI &nbsp;&nbsp;
+  
 </p>
 
 ---
+
+## Contact
+- LinkedIn: www.linkedin.com/in/markalv
+- Email: markvinicius180@gmail.com
+
+---
+
+## Featured Projects
+- 📊 Power BI Dashboard – [link do repo]
+- 📈 Excel + VBA Automation – [link do repo]
+- 🧠 Prompt Engineering Playbook – [link do repo]
+
+---
+
+## What I'm focused on now
+- Building BI dashboards with clear KPIs and storytelling
+- Improving SQL skills for analytics (joins, window functions, performance)
+- Automating reporting workflows with Excel/VBA + Python
+- Studying Data Science foundations (statistics, Python, data modeling)
+
+---
+
+## Impact
+- Reduced manual reporting time by automating Excel routines (VBA)
+- Built KPI dashboards to track product usage and customer insights
+- Turned NPS and feedback into actionable product improvements
