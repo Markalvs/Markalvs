@@ -10,12 +10,15 @@ I’m pursuing a B.Sc. in Production Engineering (UFOP) and I have technical tra
 
 ## Key Areas of Expertise
 
-- **AI Engineering:** Development and integration of AI-powered applications  
-- **Multi-Agent Systems:** Design and orchestration of intelligent agents for complex tasks  
-- **RAG:** Retrieval pipelines to improve accuracy and grounded responses  
-- **Backend Development:** APIs and scalable services with Django/DRF/FastAPI  
-- **Frontend Development:** Vue.js, React, AngularJS  
-- **Databases:** SQL modeling, optimization, and migrations  
+## Key Areas of Expertise
+
+- **Business Intelligence (Power BI):** Dashboards, KPI tracking, data modeling, DAX measures, and actionable insights  
+- **Data Analysis (Excel):** Advanced formulas, PivotTables, charts, data cleaning, and performance reporting  
+- **Automation (VBA):** Excel automation, report generation, and process optimization with macros  
+- **Data Analytics (Python):** Data manipulation, analysis, and automation scripts for recurring workflows  
+- **SQL & Databases:** Querying, data extraction, joins, aggregations, and building reliable datasets for BI  
+- **AI Prompt Engineering:** Designing, testing, and refining prompts to improve AI accuracy, consistency, and outcomes  
+
 
 ---
 
