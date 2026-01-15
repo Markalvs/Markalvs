@@ -1,56 +1,55 @@
-# About me
+# Sobre mim
 
-Hey, my name is Mark Vinícius Alves and I’m a Data Analytics / Business Intelligence professional from Minas Gerais, Brazil, currently working at GuaraLabs. I focus on turning customer and product data into actionable insights through KPI tracking, dashboarding, and performance analysis, supporting strategic decision-making across teams.
+Olá, meu nome é **Mark Vinícius Alves** e eu atuo com **Data Analytics / Business Intelligence** em **Minas Gerais, Brasil**, atualmente na **GuaraLabs**. Meu foco é transformar dados de clientes e do produto em **insights acionáveis** por meio de **acompanhamento de KPIs**, **dashboards** e **análises de performance**, apoiando a tomada de decisão estratégica entre áreas.
 
-My background includes building management reports and analyzing key metrics such as NPS, feedback signals, and platform usage indicators, identifying patterns and opportunities to improve adoption and operational efficiency. I work end-to-end with data: collecting, organizing, and analyzing datasets, defining indicators, and translating findings into clear recommendations. I also collaborate with engineering to test and refine AI-related workflows, ensuring better accuracy and measurable outcomes.
+Minha experiência inclui a construção de **relatórios gerenciais** e a análise de métricas como **NPS**, sinais de feedback e indicadores de uso da plataforma, identificando padrões e oportunidades para melhorar adoção e eficiência operacional. Trabalho ponta a ponta com dados: **coletando, organizando e analisando datasets**, definindo indicadores e traduzindo resultados em recomendações claras. Também colaboro com a engenharia para testar e refinar fluxos relacionados a IA, garantindo maior assertividade e resultados mensuráveis.
 
-I’m pursuing a B.Sc. in Production Engineering, Federal University of Ouro Preto (UFOP) and I have technical training in Industrial Automation, which strengthened my analytical mindset and structured problem-solving. Previously, I worked with FTTH network projects and technical reporting, developing strong attention to detail, data interpretation, and process optimization.
+Sou graduando em **Engenharia de Produção** na **Universidade Federal de Ouro Preto (UFOP)** e possuo formação técnica em **Automação Industrial**, o que fortaleceu meu raciocínio analítico e a resolução estruturada de problemas. Anteriormente, atuei com projetos de redes **FTTH** e relatórios técnicos, desenvolvendo forte atenção a detalhes, interpretação de dados e otimização de processos.
 
 ---
-## Key Areas of Expertise
 
-- **Business Intelligence (Power BI):** Dashboards, KPI tracking, data modeling, DAX measures, and actionable insights  
-- **Data Analysis (Excel):** Advanced formulas, PivotTables, charts, data cleaning, and performance reporting  
-- **Automation (VBA):** Excel automation, report generation, and process optimization with macros  
-- **Data Analytics (Python):** Data manipulation, analysis, and automation scripts for recurring workflows  
-- **SQL & Databases:** Querying, data extraction, joins, aggregations, and building reliable datasets for BI  
-- **AI Prompt Engineering:** Designing, testing, and refining prompts to improve AI accuracy, consistency, and outcomes  
+## Áreas de especialidade
 
+- **Business Intelligence (Power BI):** Dashboards, acompanhamento de KPIs, modelagem de dados, medidas em DAX e geração de insights  
+- **Análise de Dados (Excel):** Fórmulas avançadas, Tabelas Dinâmicas, gráficos, limpeza de dados e relatórios de performance  
+- **Automação (VBA):** Automação no Excel, geração de relatórios e otimização de processos com macros  
+- **Data Analytics (Python):** Manipulação e análise de dados, além de scripts de automação para rotinas recorrentes  
+- **SQL & Bancos de Dados:** Consultas, extração de dados, joins, agregações e construção de bases confiáveis para BI  
+- **Engenharia de Prompt (IA):** Criação, testes e refinamento de prompts para melhorar precisão, consistência e resultados da IA  
 
 ---
 
 ## Tech Stack
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34" /> Python &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="34" /> SQL
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="34" /> SQL &nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" height="34" /> Power BI &nbsp;&nbsp;
-  
 </p>
 
 ---
 
-## Contact
+## Contato
 - LinkedIn: www.linkedin.com/in/markalv
 - Email: markvinicius180@gmail.com
 
 ---
 
-## Featured Projects
-- 📊 Power BI Dashboard – [link do repo]
-- 📈 Excel + VBA Automation – [link do repo]
-- 🧠 Prompt Engineering Playbook – [link do repo]
+## Projetos em destaque
+- 📊 Dashboard em Power BI – [link do repo]
+- 📈 Automação em Excel + VBA – [link do repo]
+- 🧠 Playbook de Prompt Engineering – [link do repo]
 
 ---
 
-## What I'm focused on now
-- Building BI dashboards with clear KPIs and storytelling
-- Improving SQL skills for analytics (joins, window functions, performance)
-- Automating reporting workflows with Excel/VBA + Python
-- Studying Data Science foundations (statistics, Python, data modeling)
+## No que estou focado agora
+- Construir dashboards de BI com KPIs claros e storytelling
+- Evoluir em SQL para analytics (joins, window functions, performance)
+- Automatizar rotinas de relatórios com Excel/VBA + Python
+- Estudar fundamentos de Data Science (estatística, Python, modelagem de dados)
 
 ---
 
-## Impact
-- Reduced manual reporting time by automating Excel routines (VBA)
-- Built KPI dashboards to track product usage and customer insights
-- Turned NPS and feedback into actionable product improvements
+## Impacto
+- Reduzi tempo de trabalho manual automatizando rotinas em Excel (VBA)
+- Criei dashboards de KPIs para acompanhar uso do produto e insights de clientes
+- Transformei NPS e feedbacks em melhorias acionáveis no produto
