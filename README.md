@@ -21,8 +21,9 @@ Sou graduando em Engenharia de Produção na Universidade Federal de Ouro Pre
 ## Tech Stack
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34" /> Python &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="34" /> SQL &nbsp;&nbsp;
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="34" /> SQL &nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" height="34" /> Power BI &nbsp;&nbsp;
+  
 </p>
 
 ---
