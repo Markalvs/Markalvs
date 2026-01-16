@@ -13,8 +13,7 @@ Sou graduando em Engenharia de Produção na Universidade Federal de Ouro Pre
 - **Business Intelligence (Power BI):** Dashboards, acompanhamento de KPIs, modelagem de dados, medidas em DAX e geração de insights  
 - **Análise de Dados (Excel):** Fórmulas avançadas, Tabelas Dinâmicas, gráficos, limpeza de dados e relatórios de performance  
 - **Data Analytics (Python):** Manipulação e análise de dados, além de scripts de automação para rotinas recorrentes  
-- **SQL & Bancos de Dados:** Consultas, extração de dados, joins, agregações e construção de bases confiáveis para BI  
-- **Engenharia de Prompt (IA):** Criação, testes e refinamento de prompts para melhorar precisão, consistência e resultados da IA  
+- **SQL & Bancos de Dados:** Consultas, extração de dados, joins, agregações e construção de bases confiáveis para BI 
 
 ---
 
