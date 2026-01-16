@@ -39,7 +39,7 @@ Sou graduando em Engenharia de Produção na Universidade Federal de Ouro Pre
 - Construir dashboards de BI com KPIs claros e storytelling
 - Evoluir em SQL para analytics (joins, window functions, performance)
 - Automatizar rotinas de relatórios com Excel + Python
-- Estudar fundamentos de Data Science (estatística, Python, modelagem de dados)
+- Estudar fundamentos de Data Analytics, Business Intelligence, Data Science e Machine Learning Enginner.
 
 ---
 
