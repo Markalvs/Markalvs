@@ -34,10 +34,10 @@ Sou graduando em Engenharia de Produção na Universidade Federal de Ouro Pre
 ---
 
 ## Projetos em destaque
-- 📊 Dashboard em Power BI – [link do repo]
-- 🗄️ Projetos em SQL – [link do repo]
-- 🐍 Projetos em Python – [link do repo]
-- 📈 Projetos em Excel – [Ver repositório](https://github.com/Markalvs/excel-projects)
+- Dashboard em Power BI – [link do repo]
+- Projetos em SQL – [link do repo]
+- Projetos em Python – [link do repo]
+- Projetos em Excel – [Ver repositório](https://github.com/Markalvs/excel-projects)
 
 ---
 
