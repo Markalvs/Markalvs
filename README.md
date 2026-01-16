@@ -1,10 +1,10 @@
 # Sobre mim
 
-Olá, meu nome é Mark Vinícius Alves e eu atuo com Data Analytics / Business Intelligence em Minas Gerais, Brasil, atualmente na GuaraLabs. Meu foco é transformar dados de clientes e do produto em insights acionáveis por meio de acompanhamento de KPIs, dashboards e análises de performance, apoiando a tomada de decisão estratégica entre áreas.
+Olá, meu nome é Mark Vinícius Alves e eu atuo com Product Ownner em Minas Gerais, Brasil, atualmente na GuaraLabs. Meu foco de estudo e atuação é em Data Analytics | Business Intelligence, transformando dados de clientes e do produto em insights acionáveis por meio de acompanhamento de KPIs, dashboards e análises de performance, apoiando a tomada de decisão estratégica entre áreas.
 
 Minha experiência inclui a construção de relatórios gerenciais e a análise de métricas como NPS, sinais de feedback e indicadores de uso da plataforma, identificando padrões e oportunidades para melhorar adoção e eficiência operacional. Trabalho ponta a ponta com dados: coletando, organizando e analisando datasets, definindo indicadores e traduzindo resultados em recomendações claras.
 
-Sou graduando em Engenharia de Produção na Universidade Federal de Ouro Preto (UFOP) e possuo formação técnica em Automação Industrial (SENAI), o que fortaleceu meu raciocínio analítico e a resolução estruturada de problemas. Além disso, atuei como Customer Success e atualmente atuo como Product Owner de um produto de atendimento por IA pela Guaralabs.
+Sou graduando em Engenharia de Produção na Universidade Federal de Ouro Preto (UFOP) e possuo formação técnica em Automação Industrial (SENAI), o que fortaleceu meu raciocínio analítico e a resolução estruturada de problemas.
 
 ---
 
