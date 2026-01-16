@@ -28,12 +28,6 @@ Sou graduando em Engenharia de Produção na Universidade Federal de Ouro Pre
 
 ---
 
-## Contato
-- LinkedIn: www.linkedin.com/in/markalv
-- Email: markvinicius180@gmail.com
-
----
-
 ## Projetos em destaque
 - Dashboard em Power BI – [link do repo]
 - Projetos em SQL – [link do repo]
