@@ -1,6 +1,6 @@
 # Hello, welcome to my GitHub 👋
 
-I'm **Mark Vinícius Alves**, a professional focused on **Data Analytics and Data Engineering**.
+I'm **Mark Vinícius Alves**, a professional focused on **Data Engineering and Data Analytics**.
 
 I have experience in data collection, processing, and analysis, dashboard development, process automation, and KPI monitoring, transforming data into strategic insights for decision-making.
 
