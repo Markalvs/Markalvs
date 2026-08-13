@@ -41,3 +41,4 @@ I have experience in data collection, processing, and analysis, dashboard develo
 </p>
 
 ---
+## IT Certifications
