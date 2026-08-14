@@ -1,6 +1,6 @@
 # Hello, welcome to my GitHub 👋
 
-I'm Mark Vinícius Alves, a professional focused on Data Engineering and Artificial Intelligence.
+I'm Mark Vinícius Alves, a professional focused on Data Engineering.
 
 I'm developing skills in Python, SQL, data processing and transformation, automation, databases, and AI, with a focus on building reliable data solutions and applying technology to solve real-world problems.
 
